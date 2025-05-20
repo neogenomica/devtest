@@ -157,6 +157,10 @@ label,foward_sequence,reverse_sequence,foward_temperature,reverse_temperature,ch
 PORCN_15,GGGCAAAGGATGGGTTTTC,CAGTGGCACCCTGAGAGG,61.6,60.4,X,NM_203475.3,48520301,48520530,TD66-60,15,hg38,chrX 48520301 48520530 PORCN_NM_203475.3_exon15,230pb
 ```
 
+## Referências
+
+- Adicionamos um exemplo de bed para download
+- Adicionamos um exemplo de arquivo de teste de primers para importação manual ou via csv (upload)
 
 
 - Para facilitar ao terminar o seu teste, commit todo o seu projeto no seu respositório forkeado (bifurcado) e nos envie o link do seu repositório junto a resposta do seu teste admissional.
