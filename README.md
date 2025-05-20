@@ -155,7 +155,7 @@ Você pode usar slides ou diagramas, se desejar.
 ```csv
 label,foward_sequence,reverse_sequence,foward_temperature,reverse_temperature,chr,transcrito,start,end,conditions,exon,genome_version,bed,size
 PORCN_15,GGGCAAAGGATGGGTTTTC,CAGTGGCACCCTGAGAGG,61.6,60.4,X,NM_203475.3,48520301,48520530,TD66-60,15,hg38,chrX 48520301 48520530 PORCN_NM_203475.3_exon15,230pb
-
+```
 
 
 
